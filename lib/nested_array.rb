@@ -29,7 +29,7 @@ def assembled_matrix
   "Watermelon",
   "Eggplant"
 ],
-[
+CONVENTIONAL_PRODUCE =[
   "Strawberries",
   "Potatoes",
   "Grapes",
