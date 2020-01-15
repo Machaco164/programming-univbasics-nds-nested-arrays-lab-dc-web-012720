@@ -60,8 +60,8 @@ def sorted_matrix
 ]
 ]
 
-array[1].sort
-array[0].sort
+CONVENTIONAL_PRODUCE.sort
+ORGANIC_PRODUCE.sort
 
 array
 end
