@@ -6,3 +6,5 @@ puts spice_rack[1][1]
 puts spice_rack[2][2]
 puts spice_rack[1][0]
 puts spice_rack[1][2]
+
+puts spice_rack[1][2] = "Cumin"
