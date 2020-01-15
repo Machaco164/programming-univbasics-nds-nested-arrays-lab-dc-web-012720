@@ -4,4 +4,4 @@ spice_rack = [["Mace", "Ginger", "Marjoram"],
               
 puts spice_rack[1][1]
 puts spice_rack[2][2]
-puts spice_rack[0][1]
+puts spice_rack[1][0]
